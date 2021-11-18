@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+}
+
+.box{
+    width: 300px;
+    height: 200px;
+}
+
+.boxA{
+    background-color: blueviolet;
+    color: white;
+}
+
+.new_box{
+    background-color: yellow;
+    color: black;
+}
+.boxB{
+    background-color: coral;
+}
